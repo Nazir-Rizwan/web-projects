@@ -1,0 +1,21 @@
+.txt-center{
+    text-align: center;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+/* marging auto from left to right  */
+/* marging 0 from top to bottom  */
+
+.bg-color{
+    background-color: red;
+    margin: auto;
+    max-width: 30vw;
+    
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+.item-align{
+    align-items: center;
+}
